@@ -1,0 +1,44 @@
+body{
+	background-color: lightgoldenrodyellow;
+}
+header{
+	text-align:center;
+	margin-top:auto;
+	margin: auto;
+	width: 80%;
+}
+.centered-div {
+	border-top: solid 4px green;
+	margin: auto;
+	width: 80%
+}
+h2{
+	color: red;
+	font-family: 'Roboto', sans-serif;
+}
+p {
+	font-family: 'Roboto', sans-serif;
+}
+	
+
+h1{
+	font-family: 'Raleway', sans-serif; 
+
+}
+#color_1{
+	background-color: red;	
+	margin: 5px;
+	padding: 3px;
+	word-spacing: 5px;	
+
+}
+
+#color_2{
+	background-color: black;
+	text-align: right;
+	padding: 3px;
+	margin: 5px;
+	word-spacing: 5px;
+
+}
+
